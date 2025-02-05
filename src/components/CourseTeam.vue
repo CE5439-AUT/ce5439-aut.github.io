@@ -5,8 +5,8 @@ import PersonCard from "../components/PersonCard.vue";
 const sampleTitle = 'Instructor Team';
 const courseInstructor = {
   title: 'Course Instructor',
-  firstName: 'Sajjad',
-  lastName: 'Amini',
+  firstName: 'Mehdi',
+  lastName: 'Sedighi',
   avatar: 'Amini.jpg',
   personalWebsite: 'https://sharif.edu/~s_amini/'
 };
